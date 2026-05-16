@@ -13,23 +13,6 @@
 
 ---
 
-## 🖥️ Terminal‑Style Intro
-
-```bash
-$ whoami
-> Bruno — AI Engineer, Automation Developer, Full‑Stack Builder
-
-$ skills --list
-> AI Agents, Python, TypeScript, Docker, Data Engineering, Linux, Automation
-
-$ mission
-> Build fast, secure, local-first AI systems.
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/3d-cube.gif" width="200px" />
-</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
