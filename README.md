@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Cyberpunk Neon Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/src/images/matrix.svg" width="100%" />
+</p>
 
-<!--
-**code4lang/code4lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">⚡ Bruno — AI Engineer & Automation Developer ⚡</span>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Building AI agents, automation systems, and backend tools with a cyberpunk twist.</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🖥️ Terminal‑Style Intro
+
+```bash
+$ whoami
+> Bruno — AI Engineer, Automation Developer, Full‑Stack Builder
+
+$ skills --list
+> AI Agents, Python, TypeScript, Docker, Data Engineering, Linux, Automation
+
+$ mission
+> Build fast, secure, local-first AI systems.
