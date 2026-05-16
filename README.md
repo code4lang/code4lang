@@ -11,59 +11,232 @@
 # Bruno — AI Engineer & Automation Developer
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" /> </p> <p align="center"> <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" /> </p>
-Featured Projects
-nanoclaw — AI Agent Framework
-A lightweight alternative to OpenClaw built with container-level security, messaging integrations, memory systems, and scheduled jobs.
-Stack
-TypeScript Docker Messaging APIs AI Agents
-Repo:
-https://github.com/code4lang/nanoclaw
-energy-optimizer — ML Energy Optimization
-Forecasting, optimization, and automated decision logic for energy systems.
-Stack
-Python Machine Learning Automation
-Repo:
-https://github.com/code4lang/energy-optimizer
-trading-bots — Algorithmic Trading
-Modular trading bots with automated strategies and backtesting systems.
-Stack
-Python Finance APIs Automation
-Repo:
-https://github.com/code4lang/trading-bots
-data-mining — Scrapers & ETL Pipelines
-Data scraping, transformation, and analytics utilities.
-Stack
-Python Web Scraping ETL
-Repo:
-https://github.com/code4lang/data-mining
-neural-network — ML Experiments
-Neural network experiments and machine learning notebooks.
-Stack
-Python NumPy Jupyter
-Repo:
-https://github.com/code4lang/neural-network
-GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=code4lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /> </p>
-Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,bash,html,css,docker,linux,git,github,vscode" /> </p>
-Focus Areas
-AI Agents
-LLM Integrations
-Automation Pipelines
-Backend APIs
-Container Security
-Data Engineering
-Linux Infrastructure
-Currently Exploring
-autonomous AI agents
-local LLM optimization
-memory architectures
-secure AI containers
-distributed automation systems
-voice-driven workflows
-cloud-free AI infrastructure
-Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=code4lang&theme=react-dark&hide_border=true&area=true" width="100%" /> </p>
+---
+
+# Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## nanoclaw  
+AI Agent Framework with secure containers, messaging integrations, memory systems, and scheduled jobs.
+
+### Stack
+`TypeScript` `Docker` `AI Agents`
+
+### Features
+- WhatsApp integration
+- Telegram bots
+- Discord & Slack support
+- Persistent memory
+- Scheduled automation jobs
+
+[View Repository](https://github.com/code4lang/nanoclaw)
+
+</td>
+
+<td width="50%">
+
+## energy-optimizer  
+Machine learning system for forecasting and energy optimization.
+
+### Stack
+`Python` `Machine Learning` `Automation`
+
+### Features
+- Energy forecasting
+- Optimization logic
+- Automated decisions
+- Data processing pipelines
+
+[View Repository](https://github.com/code4lang/energy-optimizer)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## trading-bots  
+Algorithmic trading bots with modular strategies and backtesting.
+
+### Stack
+`Python` `Finance APIs` `Automation`
+
+### Features
+- Modular strategies
+- Backtesting engine
+- Automated execution
+- Trading analytics
+
+[View Repository](https://github.com/code4lang/trading-bots)
+
+</td>
+
+<td width="50%">
+
+## data-mining  
+Scrapers, ETL pipelines, and analytics utilities.
+
+### Stack
+`Python` `Web Scraping` `ETL`
+
+### Features
+- Data extraction
+- ETL pipelines
+- Automation tools
+- Analytics workflows
+
+[View Repository](https://github.com/code4lang/data-mining)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## neural-network  
+Machine learning experiments and neural network research notebooks.
+
+### Stack
+`Python` `NumPy` `Jupyter`
+
+### Features
+- Neural network experiments
+- ML research notebooks
+- Deep learning practice
+- Data visualization
+
+[View Repository](https://github.com/code4lang/neural-network)
+
+</td>
+
+<td width="50%">
+
+## linux-tools  
+Low-level Linux tools and system utilities written in C.
+
+### Stack
+`C` `Linux` `System Programming`
+
+### Features
+- Linux automation
+- CLI utilities
+- System-level tooling
+- Performance tools
+
+[View Repository](https://github.com/code4lang/linux-tools)
+
+</td>
+</tr>
+</table>
+
+---
+---
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=code4lang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=code4lang&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<br>
+<br>
+
+---
+
+# Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,bash,html,css,docker,linux,git,github,vscode" />
+</p>
+
+<br>
+
+---
+
+# Focus Areas
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Infrastructure
+
+- AI Agents
+- LLM Integrations
+- Automation Pipelines
+- Backend APIs
+
+</td>
+
+<td width="50%" valign="top">
+
+### Systems & Engineering
+
+- Container Security
+- Data Engineering
+- Linux Infrastructure
+- DevOps Automation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+# Currently Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- Autonomous AI agents
+- Local LLM optimization
+- Memory architectures
+
+</td>
+
+<td width="50%" valign="top">
+
+- Secure AI containers
+- Distributed automation systems
+- Voice-driven workflows
+- Cloud-free AI infrastructure
+
+</td>
+</tr>
+</table>
+
+<br>
+<br>
+
+---
+
+# Activity Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=code4lang&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+---
+---
 Contact
 <p align="center"> <a href="https://github.com/code4lang?tab=repositories"> <img src="https://img.shields.io/badge/VIEW_PROJECTS-00eaff?style=for-the-badge&logo=github&logoColor=black" /> </a> <a href="mailto:code4lang@gmail.com"> <img src="https://img.shields.io/badge/CONTACT-ff00ff?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/code4lang"> <img src="https://img.shields.io/badge/FOLLOW-39ff14?style=for-the-badge&logo=github&logoColor=black" /> </a> </p>
 Available For
@@ -74,4 +247,4 @@ DevOps & infrastructure
 Data engineering
 AI agent development
 Linux systems engineering
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" /> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" /> </p> 
